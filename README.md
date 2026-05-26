@@ -92,8 +92,9 @@ Meu objetivo é desenvolver soluções simples, bem estruturadas e úteis, sempr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luan-Bezerra1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Bezerra1&layout=compact&theme=tokyonight&hide_border=true" />
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Bezerra1\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Bezerra1\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -103,7 +104,13 @@ Meu objetivo é desenvolver soluções simples, bem estruturadas e úteis, sempr
 
 <div align="center">
 
+<!-- A animação da cobrinha só aparece depois que a GitHub Action gerar a branch "output".
+Quando configurar a Action, remova este comentário e use a linha abaixo:
+
 ![Snake animation](https://raw.githubusercontent.com/Luan-Bezerra1/Luan-Bezerra1/output/github-contribution-grid-snake-dark.svg)
+-->
+
+⚠️ A animação da cobrinha ainda precisa ser configurada na aba **Actions** do GitHub.
 
 </div>
 
