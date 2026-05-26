@@ -57,11 +57,9 @@ Projetos focados em:
 
 > Adicione estes widgets no seu perfil:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Bezerra1\&show_icons=true\&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Bezerra1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Bezerra1&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Bezerra1\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -75,3 +73,4 @@ Projetos focados em:
 ## 📈 Objetivo
 
 Busco evoluir constantemente como desenvolvedor backend, criando soluções eficientes, automatizadas e escaláveis, além de expandir meu conhecimento em arquitetura de software e aplicações modernas.
+
