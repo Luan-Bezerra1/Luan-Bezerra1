@@ -55,8 +55,6 @@ Projetos focados em:
 
 ## 📊 Estatísticas GitHub
 
-> Adicione estes widgets no seu perfil:
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Bezerra1&show_icons=true&theme=tokyonight)
 
