@@ -88,18 +88,6 @@ Meu objetivo é desenvolver soluções simples, bem estruturadas e úteis, sempr
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Bezerra1\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Bezerra1\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
