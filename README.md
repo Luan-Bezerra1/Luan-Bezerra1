@@ -107,10 +107,6 @@ Meu objetivo é desenvolver soluções simples, bem estruturadas e úteis, sempr
 ![Snake animation](https://raw.githubusercontent.com/Luan-Bezerra1/Luan-Bezerra1/output/github-contribution-grid-snake-dark.svg)
 
 
-⚠️ A animação da cobrinha ainda precisa ser configurada na aba **Actions** do GitHub.
-
-</div>
-
 ---
 
 ## 🌐 Onde me encontrar
